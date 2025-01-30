@@ -10,7 +10,7 @@ public class RemoveArray {
         }
         arr--;
         for(int i = 0;i<arr;i++) {
-        	System.out.print(num[i]+   " ,"  );
+        	System.out.print(num[i]+   " ,    "  );
         }
 	
 	}
